@@ -15,5 +15,3 @@ def label(colors):
         prefix = ""
     
     return f"{ohms} {prefix}ohms"
-    
-    
